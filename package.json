@@ -1,0 +1,26 @@
+{
+  "name": "skypro-music-node-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gala82Sh/skypro-music-node-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Gala82Sh/skypro-music-node-server/issues"
+  },
+  "homepage": "https://github.com/Gala82Sh/skypro-music-node-server#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
